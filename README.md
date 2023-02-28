@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I am a nerd but fun to be with.**
 
+<a href="https://app.daily.dev/Ericjay1452"><img src="https://api.daily.dev/devcards/6db09f6e7dbf4e8d87b464611035de74.png?r=2t5" width="400" alt="Ilesanmierioluwa's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ericjay1452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ericjay1452" height="30" width="40" /></a>
