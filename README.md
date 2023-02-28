@@ -33,4 +33,4 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilesanmi-erioluwa-victor&" alt="ilesanmi-erioluwa-victor" />
 </p>
-<p> <a href="https://app.daily.dev/Ericjay1452"><img src="https://api.daily.dev/devcards/6db09f6e7dbf4e8d87b464611035de74.png?r=2t5" width="50%" height="50%"  max-width="50%" alt="Ilesanmierioluwa's Dev Card"/></a> </p>
+<p><a href="https://app.daily.dev/Ilesanmi-Erioluwa"><img src="https://api.daily.dev/devcards/6db09f6e7dbf4e8d87b464611035de74.png?r=sli" width="400" alt="Ilesanmierioluwa's Dev Card"/></a></p>
