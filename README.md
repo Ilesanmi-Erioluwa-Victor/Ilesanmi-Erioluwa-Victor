@@ -30,5 +30,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilesanmi-erioluwa-victor&show_icons=true&locale=en" alt="ilesanmi-erioluwa-victor" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilesanmi-erioluwa-victor&" alt="ilesanmi-erioluwa-victor" /></p>
-<a href="https://app.daily.dev/Ericjay1452"><img src="https://api.daily.dev/devcards/6db09f6e7dbf4e8d87b464611035de74.png?r=2t5" width="300" alt="Ilesanmierioluwa's Dev Card"/></a>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilesanmi-erioluwa-victor&" alt="ilesanmi-erioluwa-victor" />
+   <a href="https://app.daily.dev/Ericjay1452"><img src="https://api.daily.dev/devcards/6db09f6e7dbf4e8d87b464611035de74.png?r=2t5" width="300" alt="Ilesanmierioluwa's Dev Card"/></a>
+</p>
+
