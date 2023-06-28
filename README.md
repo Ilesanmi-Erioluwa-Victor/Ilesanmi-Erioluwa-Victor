@@ -35,5 +35,7 @@
 </p>
 <p><a href="https://app.daily.dev/Ilesanmi-Erioluwa"><img src="https://api.daily.dev/devcards/6db09f6e7dbf4e8d87b464611035de74.png?r=69r" width="400" alt="Ilesanmierioluwa's Dev Card"/></a></p>
 <p>
-  <a href="https://www.codewars.com/users/Ilesanmi%20Erioluwa/badges/large">Codewars Profile</a>
+  <a href="https://www.codewars.com/users/Ilesanmi%20Erioluwa/badges/large">
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.codewars.com%2Fpacks%2Fassets%2Fog-image.7f5134fb.png&tbnid=pTnE7DXz71a6cM&vet=12ahUKEwiLypif2ub_AhXlpycCHe7NDS0QMygEegUIARDPAQ..i&imgrefurl=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fsign_in&docid=wCfAhyTHevNflM&w=1200&h=630&q=codewars%20img&ved=2ahUKEwiLypif2ub_AhXlpycCHe7NDS0QMygEegUIARDPAQ"/>
+  </a>
 </p>
