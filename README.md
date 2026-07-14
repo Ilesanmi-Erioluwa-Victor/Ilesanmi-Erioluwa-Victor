@@ -4,16 +4,17 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ilesanmi-erioluwa-victor&label=Profile%20views&color=0e75b6&style=flat" alt="ilesanmi-erioluwa-victor profile views" />
   <a href="https://twitter.com/ilesanmiEri" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ilesanmEri?logo=twitter&style=for-the-badge" alt="follow on twitter" />
+    <img src="https://img.shields.io/twitter/follow/ilesanmEr?logo=twitter&style=for-the-badge" alt="follow on twitter" />
   </a>
 </p>
 
 ### About Me
 
-- 💼 **Full Stack Engineer** at **AbS Technologies**, building React/TypeScript features, admin dashboards, and Node.js backend services for a large-scale edtech platform
-- 🏦 Frontend contributor on a **fintech crypto wallet** (HelloBob) and a **social sports platform** (DigiYo)
-- 🔭 Currently building out **Jobify** (MERN job-tracking platform) and **4TK Shop**, a live e-commerce app at [4tk.shop](https://4tk.shop)
-- 🌱 Currently deepening my knowledge of **Next.js, system design, and automated testing (Cypress)**
+- 🚀 **Full Stack Engineer** with 4+ years of experience building responsive, high-performance web applications with React, TypeScript, and modern JavaScript (ES6+)
+- 💼 Currently at **AbS Technologies**, architecting React/TypeScript features, admin dashboards, data-heavy query interfaces, and Node.js backend services for a large-scale edtech platform
+- 🏦 Frontend contributor on **HelloBob**, a mobile fintech crypto wallet product (wallet balance, transactions, deposit/withdrawal, KYC onboarding, P2P trade), and **DigiYo**, a social sports platform
+- 🛠️ Built **Jobify** (MERN job-tracking platform) and **4TK Shop**, a live e-commerce app at [4tk.shop](https://4tk.shop), end-to-end
+- 🔌 Comfortable integrating GraphQL and REST APIs, and stepping into Node.js backends when a feature needs it to keep delivery moving
 - 💬 Ask me about **React, TypeScript, Next.js, Node.js, MongoDB, GraphQL, Redux Toolkit, Tailwind CSS**
 - 📫 Reach me at **ilesanmierioluwavictor@gmail.com**
 
