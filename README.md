@@ -11,19 +11,24 @@
 ### About Me
 
 - 💼 **Full Stack Engineer** at **AbS Technologies**, building React/TypeScript features, admin dashboards, and Node.js backend services for a large-scale edtech platform
+  
 - 🏦 Frontend contributor on a **fintech crypto wallet** (HelloBob) and a **social sports platform** (DigiYo)
+  
 - 🔭 Currently building out **Jobify** (MERN job-tracking platform) and **4TK Shop**, a live e-commerce app at [4tk.shop](https://4tk.shop)
+  
 - 🌱 Currently deepening my knowledge of **Next.js, system design, and automated testing (Cypress)**
+  
 - 💬 Ask me about **React, TypeScript, Next.js, Node.js, MongoDB, GraphQL, Redux Toolkit, Tailwind CSS**
+  
 - 📫 Reach me at **ilesanmierioluwavictor@gmail.com**
-- ⚡ Fun fact: **I'm a nerd, but fun to be with.**
+  
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/erioluwa-victor-ilesanmi-2147891b4/" target="_blank">
+  <a href="https://www.linkedin.com/in/erioluwa-ilesanmi/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/ericjay1452" target="_blank">
+  <a href="https://twitter.com/ilesanmiEri" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
 </p>
