@@ -11,17 +11,11 @@
 ### About Me
 
 - 💼 **Full Stack Engineer** at **AbS Technologies**, building React/TypeScript features, admin dashboards, and Node.js backend services for a large-scale edtech platform
-  
 - 🏦 Frontend contributor on a **fintech crypto wallet** (HelloBob) and a **social sports platform** (DigiYo)
-  
 - 🔭 Currently building out **Jobify** (MERN job-tracking platform) and **4TK Shop**, a live e-commerce app at [4tk.shop](https://4tk.shop)
-  
 - 🌱 Currently deepening my knowledge of **Next.js, system design, and automated testing (Cypress)**
-  
 - 💬 Ask me about **React, TypeScript, Next.js, Node.js, MongoDB, GraphQL, Redux Toolkit, Tailwind CSS**
-  
 - 📫 Reach me at **ilesanmierioluwavictor@gmail.com**
-  
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -60,13 +54,8 @@
 </p>
 
 <h3 align="left">GitHub Stats</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilesanmi-erioluwa-victor&show_icons=true&locale=en&layout=compact&hide_border=true" alt="top languages" width="48%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilesanmi-erioluwa-victor&show_icons=true&locale=en&hide_border=true" alt="github stats" width="48%" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilesanmi-erioluwa-victor&hide_border=true" alt="github streak stats" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilesanmi-erioluwa-victor&hide_border=true" alt="github streak stats" />
 </p>
 
 <h3 align="left">Coding Profiles</h3>
