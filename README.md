@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ilesanmi-erioluwa-victor&label=Profile%20views&color=0e75b6&style=flat" alt="ilesanmi-erioluwa-victor profile views" />
   <a href="https://twitter.com/ilesanmiEri" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ilesanmEr?logo=twitter&style=for-the-badge" alt="follow on twitter" />
+    <img src="https://img.shields.io/twitter/follow/ilesanmEri?logo=twitter&style=for-the-badge" alt="follow on twitter" />
   </a>
 </p>
 
