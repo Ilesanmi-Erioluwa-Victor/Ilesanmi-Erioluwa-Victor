@@ -11,27 +11,93 @@ React + TypeScript on the frontend · Python + FastAPI on the backend</pre>
 
 ## A little about me
 
-I'm a full stack engineer with **4+ years of experience** building responsive web products. At **AbS Technologies**, I work on React and TypeScript features, admin dashboards, data-heavy interfaces, and backend services for an edtech platform. I also contribute to fintech and social sports products.
-
-These days, I'm writing backend APIs with **Python and FastAPI**, alongside my experience with Node.js. I enjoy connecting thoughtful interfaces to dependable services, whether the product is in fintech, edtech, or e-commerce.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Full-stack engineering</h3>
+<p>With <strong>4+ years of experience</strong>, I build responsive web products with React and TypeScript. At <strong>AbS Technologies</strong>, I work on product features, admin dashboards, data-heavy interfaces, and backend services for an edtech platform.</p>
+</td>
+<td width="50%" valign="top">
+<h3>Backend, evolving</h3>
+<p>I'm now building backend APIs with <strong>Python and FastAPI</strong>, alongside my experience with Node.js. I enjoy connecting thoughtful interfaces to dependable services across fintech, edtech, and e-commerce.</p>
+</td>
+</tr>
+</table>
 
 ## Selected work
 
-| Project | What it is |
-|:--|:--|
-| **[4TK Shop](https://4tk.shop)** | A live e-commerce product I built end to end. |
-| **Jobify** | A MERN job-tracking platform. |
-| **HelloBob** | Frontend contributions to a mobile fintech crypto wallet, including wallet, transaction, KYC, and P2P flows. |
-| **DigiYo** | Frontend contributions to a social sports platform. |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 · <a href="https://4tk.shop">4TK Shop ↗</a></h3>
+<p>A live e-commerce product I built end to end.</p>
+</td>
+<td width="50%" valign="top">
+<h3>02 · Jobify</h3>
+<p>A MERN job-tracking platform, built to make applications easier to manage.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 · HelloBob</h3>
+<p>Frontend contributions to a mobile fintech crypto wallet, including wallet, transaction, KYC, and P2P flows.</p>
+</td>
+<td width="50%" valign="top">
+<h3>04 · DigiYo</h3>
+<p>Frontend contributions to a social sports platform.</p>
+</td>
+</tr>
+</table>
 
 ## The toolkit
 
-| Area | Tools |
-|:--|:--|
-| **Frontend** | <code>React</code> · <code>Next.js</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>Redux Toolkit</code> · <code>Tailwind CSS</code> · <code>Sass</code> · <code>Bootstrap</code> |
-| **Backend** | <code>Python</code> · <code>FastAPI</code> · <code>Node.js</code> · <code>Express</code> · <code>REST</code> · <code>GraphQL</code> |
-| **Data** | <code>MongoDB</code> · <code>PostgreSQL</code> |
-| **Workflow** | <code>Git</code> · <code>Docker</code> · <code>AWS</code> · <code>Postman</code> · <code>Figma</code> |
+<table>
+<tr>
+<td width="140" valign="middle"><strong>Languages</strong><br /><sub>Core languages</sub></td>
+<td valign="middle">
+<a href="https://www.python.org" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="36" height="36" /></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" /></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" /></a>
+</td>
+</tr>
+<tr>
+<td width="140" valign="middle"><strong>Frontend</strong><br /><sub>Product UI</sub></td>
+<td valign="middle">
+<a href="https://react.dev" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="36" height="36" /></a>&nbsp;&nbsp;
+<a href="https://nextjs.org" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="36" height="36" /></a>&nbsp;&nbsp;
+<a href="https://redux.js.org" title="Redux Toolkit"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux Toolkit" width="36" height="36" /></a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="36" height="36" /></a>&nbsp;&nbsp;
+<a href="https://sass-lang.com" title="Sass"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" width="36" height="36" /></a>&nbsp;&nbsp;
+<a href="https://getbootstrap.com" title="Bootstrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="36" height="36" /></a>
+</td>
+</tr>
+<tr>
+<td width="140" valign="middle"><strong>Backend</strong><br /><sub>APIs & services</sub></td>
+<td valign="middle">
+<a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="36" height="36" /></a>&nbsp;&nbsp;
+<a href="https://nodejs.org" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36" /></a>&nbsp;&nbsp;
+<a href="https://expressjs.com" title="Express"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="36" height="36" /></a>&nbsp;&nbsp;
+<a href="https://graphql.org" title="GraphQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" width="36" height="36" /></a>
+</td>
+</tr>
+<tr>
+<td width="140" valign="middle"><strong>Data</strong><br /><sub>Persistence</sub></td>
+<td valign="middle">
+<a href="https://www.mongodb.com" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" height="36" /></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36" /></a>
+</td>
+</tr>
+<tr>
+<td width="140" valign="middle"><strong>Tools</strong><br /><sub>Build & delivery</sub></td>
+<td valign="middle">
+<a href="https://git-scm.com" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="36" height="36" /></a>&nbsp;&nbsp;
+<a href="https://www.docker.com" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" /></a>&nbsp;&nbsp;
+<a href="https://aws.amazon.com" title="AWS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="46" height="36" /></a>&nbsp;&nbsp;
+<a href="https://www.postman.com" title="Postman"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="36" height="36" /></a>&nbsp;&nbsp;
+<a href="https://www.figma.com" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="36" height="36" /></a>
+</td>
+</tr>
+</table>
 
 ## Around GitHub
 
