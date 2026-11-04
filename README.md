@@ -1,112 +1,89 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1D4ED8,100:06B6D4&height=220&section=header&text=Ilesanmi%20Erioluwa%20Victor&fontSize=40&fontColor=F8FAFC&fontAlignY=38&desc=FULL%20STACK%20ENGINEER%20%E2%80%A2%20LAGOS%2C%20NIGERIA&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Ilesanmi Erioluwa Victor — Full Stack Engineer" />
-
-[LinkedIn](https://www.linkedin.com/in/erioluwa-ilesanmi/) &nbsp;·&nbsp; [X](https://twitter.com/ilesanmiEri) &nbsp;·&nbsp; [Email](mailto:ilesanmierioluwavictor@gmail.com) &nbsp;·&nbsp; [4TK Shop](https://4tk.shop)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1D4ED8,100:06B6D4&height=220&section=header&text=Ilesanmi%20Erioluwa%20Victor&fontSize=40&fontColor=F8FAFC&fontAlignY=38&desc=FULL%20STACK%20ENGINEER%20%E2%80%A2%20LAGOS%2C%20NIGERIA&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Ilesanmi Erioluwa Victor — Full Stack Engineer" />
+  <br />
+  <a href="https://www.linkedin.com/in/erioluwa-ilesanmi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/ilesanmiEri"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:ilesanmierioluwavictor@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://4tk.shop/"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </div>
 
-<pre>I build polished web experiences and the APIs behind them.
-React + TypeScript on the frontend · Python + FastAPI on the backend</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+thoughtful+web+experiences;React+%2B+TypeScript+on+the+frontend;Python+%2B+FastAPI+on+the+backend" alt="Building thoughtful web experiences with React, TypeScript, Python, and FastAPI" />
+</p>
 
-## A little about me
+## About me
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>Full-stack engineering</h3>
-<p>With <strong>4+ years of experience</strong>, I build responsive web products with React and TypeScript. At <strong>AbS Technologies</strong>, I work on product features, admin dashboards, data-heavy interfaces, and backend services for an edtech platform.</p>
-</td>
-<td width="50%" valign="top">
-<h3>Backend, evolving</h3>
-<p>I'm now building backend APIs with <strong>Python and FastAPI</strong>, alongside my experience with Node.js. I enjoy connecting thoughtful interfaces to dependable services across fintech, edtech, and e-commerce.</p>
-</td>
-</tr>
-</table>
+I'm a full stack engineer with **4+ years of experience** building responsive web products. At **AbS Technologies**, I work on React and TypeScript features, admin dashboards, data-heavy interfaces, and backend services for an edtech platform. I also contribute to fintech and social sports products.
+
+I'm now building backend APIs with **Python and FastAPI**, alongside my experience with Node.js. I enjoy connecting thoughtful interfaces to dependable services across fintech, edtech, and e-commerce.
+
+## Tech stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+**Backend & data**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
 ## Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>01 · <a href="https://4tk.shop">4TK Shop ↗</a></h3>
-<p>A live e-commerce product I built end to end.</p>
-</td>
-<td width="50%" valign="top">
-<h3>02 · Jobify</h3>
-<p>A MERN job-tracking platform, built to make applications easier to manage.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>03 · HelloBob</h3>
-<p>Frontend contributions to a mobile fintech crypto wallet, including wallet, transaction, KYC, and P2P flows.</p>
-</td>
-<td width="50%" valign="top">
-<h3>04 · DigiYo</h3>
-<p>Frontend contributions to a social sports platform.</p>
-</td>
-</tr>
-</table>
+### [4TK Shop ↗](https://4tk.shop/)
+A live e-commerce product I built end to end.
 
-## The toolkit
+### Jobify
+A MERN job-tracking platform.
 
-<h3 align="center">Languages</h3>
+### HelloBob
+Frontend contributions to a mobile fintech crypto wallet, including wallet, transaction, KYC, and P2P flows.
+
+### DigiYo
+Frontend contributions to a social sports platform.
+
+## GitHub activity
+
 <p align="center">
-<a href="https://www.python.org" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ilesanmi-Erioluwa-Victor&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilesanmi-Erioluwa-Victor&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-<a href="https://react.dev" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40" /></a>&nbsp;&nbsp;
-<a href="https://nextjs.org" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" /></a>&nbsp;&nbsp;
-<a href="https://redux.js.org" title="Redux Toolkit"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40" height="40" /></a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" /></a>&nbsp;&nbsp;
-<a href="https://sass-lang.com" title="Sass"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" /></a>&nbsp;&nbsp;
-<a href="https://getbootstrap.com" title="Bootstrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" /></a>
-</p>
+## Let's connect
 
-<h3 align="center">Backend</h3>
-<p align="center">
-<a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a>&nbsp;&nbsp;
-<a href="https://nodejs.org" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /></a>&nbsp;&nbsp;
-<a href="https://expressjs.com" title="Express"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="40" height="40" /></a>&nbsp;&nbsp;
-<a href="https://graphql.org" title="GraphQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/erioluwa-ilesanmi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://twitter.com/ilesanmiEri"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white" alt="Follow on X" /></a>
+<a href="mailto:ilesanmierioluwavictor@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat&logo=gmail&logoColor=white" alt="Send email" /></a>
 
-<h3 align="center">Data</h3>
-<p align="center">
-<a href="https://www.mongodb.com" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" /></a>&nbsp;&nbsp;
-<a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a>
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-<a href="https://git-scm.com" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" /></a>&nbsp;&nbsp;
-<a href="https://www.docker.com" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /></a>&nbsp;&nbsp;
-<a href="https://aws.amazon.com" title="AWS"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" height="28" /></a>&nbsp;&nbsp;
-<a href="https://www.postman.com" title="Postman"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" /></a>&nbsp;&nbsp;
-<a href="https://www.figma.com" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" /></a>
-</p>
-
-## Around GitHub
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilesanmi-Erioluwa-Victor&theme=transparent&hide_border=true&ring=06B6D4&fire=1D4ED8&currStreakLabel=1D4ED8" alt="GitHub contribution streak" />
-
-</div>
-
-## Say hello
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erioluwa-ilesanmi/)
-[![X](https://img.shields.io/badge/X-Follow-111827?style=flat&logo=x&logoColor=white)](https://twitter.com/ilesanmiEri)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-0F766E?style=flat&logo=gmail&logoColor=white)](mailto:ilesanmierioluwavictor@gmail.com)
-
-<div align="center">
-
-<sub>Thanks for stopping by — let's build something useful.</sub>
-
-</div>
+<p align="center">Thanks for stopping by — let's build something useful.</p>
