@@ -76,8 +76,26 @@ Frontend contributions to a social sports platform.
 ## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ilesanmi-Erioluwa-Victor&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilesanmi-Erioluwa-Victor&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Ilesanmi-Erioluwa-Victor&show_icons=true&theme=dark&hide_border=true" alt="GitHub profile statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ilesanmi-Erioluwa-Victor&layout=compact&theme=dark&hide_border=true" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ilesanmi-Erioluwa-Victor&theme=dark&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+## Coding & community activity
+
+<p align="center">
+  <a href="https://www.codewars.com/users/Ilesanmi%20Erioluwa">
+    <img src="https://www.codewars.com/users/Ilesanmi%20Erioluwa/badges/large?theme=dark" alt="Codewars profile badge" />
+  </a>
+  <a href="https://app.daily.dev/Ilesanmi-Erioluwa">
+    <img src="https://img.shields.io/badge/daily.dev-Visit%20profile-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev profile" />
+  </a>
+  <a href="https://github.com/Ilesanmi-Erioluwa-Victor">
+    <img src="https://komarev.com/ghpvc/?username=ilesanmi-erioluwa-victor&label=Profile%20views&color=2563eb&style=flat" alt="GitHub profile views" />
+  </a>
 </p>
 
 ## Let's connect
