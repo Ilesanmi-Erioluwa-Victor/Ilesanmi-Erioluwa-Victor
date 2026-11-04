@@ -51,53 +51,45 @@ React + TypeScript on the frontend · Python + FastAPI on the backend</pre>
 
 ## The toolkit
 
-<table>
-<tr>
-<td width="140" valign="middle"><strong>Languages</strong><br /><sub>Core languages</sub></td>
-<td valign="middle">
-<a href="https://www.python.org" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="36" height="36" /></a>&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" /></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" /></a>
-</td>
-</tr>
-<tr>
-<td width="140" valign="middle"><strong>Frontend</strong><br /><sub>Product UI</sub></td>
-<td valign="middle">
-<a href="https://react.dev" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="36" height="36" /></a>&nbsp;&nbsp;
-<a href="https://nextjs.org" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="36" height="36" /></a>&nbsp;&nbsp;
-<a href="https://redux.js.org" title="Redux Toolkit"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux Toolkit" width="36" height="36" /></a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="36" height="36" /></a>&nbsp;&nbsp;
-<a href="https://sass-lang.com" title="Sass"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" width="36" height="36" /></a>&nbsp;&nbsp;
-<a href="https://getbootstrap.com" title="Bootstrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="36" height="36" /></a>
-</td>
-</tr>
-<tr>
-<td width="140" valign="middle"><strong>Backend</strong><br /><sub>APIs & services</sub></td>
-<td valign="middle">
-<a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="36" height="36" /></a>&nbsp;&nbsp;
-<a href="https://nodejs.org" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36" /></a>&nbsp;&nbsp;
-<a href="https://expressjs.com" title="Express"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="36" height="36" /></a>&nbsp;&nbsp;
-<a href="https://graphql.org" title="GraphQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" width="36" height="36" /></a>
-</td>
-</tr>
-<tr>
-<td width="140" valign="middle"><strong>Data</strong><br /><sub>Persistence</sub></td>
-<td valign="middle">
-<a href="https://www.mongodb.com" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" height="36" /></a>&nbsp;&nbsp;
-<a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36" /></a>
-</td>
-</tr>
-<tr>
-<td width="140" valign="middle"><strong>Tools</strong><br /><sub>Build & delivery</sub></td>
-<td valign="middle">
-<a href="https://git-scm.com" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="36" height="36" /></a>&nbsp;&nbsp;
-<a href="https://www.docker.com" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" /></a>&nbsp;&nbsp;
-<a href="https://aws.amazon.com" title="AWS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="46" height="36" /></a>&nbsp;&nbsp;
-<a href="https://www.postman.com" title="Postman"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="36" height="36" /></a>&nbsp;&nbsp;
-<a href="https://www.figma.com" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="36" height="36" /></a>
-</td>
-</tr>
-</table>
+<h3 align="center">Languages</h3>
+<p align="center">
+<a href="https://www.python.org" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+<a href="https://react.dev" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40" /></a>&nbsp;&nbsp;
+<a href="https://nextjs.org" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" /></a>&nbsp;&nbsp;
+<a href="https://redux.js.org" title="Redux Toolkit"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40" height="40" /></a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" /></a>&nbsp;&nbsp;
+<a href="https://sass-lang.com" title="Sass"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" /></a>&nbsp;&nbsp;
+<a href="https://getbootstrap.com" title="Bootstrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" /></a>
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+<a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a>&nbsp;&nbsp;
+<a href="https://nodejs.org" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /></a>&nbsp;&nbsp;
+<a href="https://expressjs.com" title="Express"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="40" height="40" /></a>&nbsp;&nbsp;
+<a href="https://graphql.org" title="GraphQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" /></a>
+</p>
+
+<h3 align="center">Data</h3>
+<p align="center">
+<a href="https://www.mongodb.com" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" /></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a>
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+<a href="https://git-scm.com" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" /></a>&nbsp;&nbsp;
+<a href="https://www.docker.com" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /></a>&nbsp;&nbsp;
+<a href="https://aws.amazon.com" title="AWS"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" height="28" /></a>&nbsp;&nbsp;
+<a href="https://www.postman.com" title="Postman"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" /></a>&nbsp;&nbsp;
+<a href="https://www.figma.com" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" /></a>
+</p>
 
 ## Around GitHub
 
